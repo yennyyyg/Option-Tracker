@@ -1,0 +1,10 @@
+{
+  "userId": "6869a2f4b88e387ed53904b6",
+  "dataType": "connected_accounts_summary",
+  "timestamp": "2025-07-05T22:14:37.127Z",
+  "rawData": {
+    "connected_accounts_count": 0,
+    "accounts": [],
+    "raw_token_records": []
+  }
+}

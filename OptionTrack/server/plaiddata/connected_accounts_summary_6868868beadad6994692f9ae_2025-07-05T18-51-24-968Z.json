@@ -1,0 +1,32 @@
+{
+  "userId": "6868868beadad6994692f9ae",
+  "dataType": "connected_accounts_summary",
+  "timestamp": "2025-07-05T18:51:24.968Z",
+  "rawData": {
+    "connected_accounts_count": 1,
+    "accounts": [
+      {
+        "id": "6868bbec264e1d71c5b80268",
+        "institutionName": "Merrill",
+        "institutionId": "ins_115610",
+        "accountCount": 2,
+        "lastSyncAt": "2025-07-05T18:40:07.693Z",
+        "createdAt": "2025-07-05T05:45:16.056Z"
+      }
+    ],
+    "raw_token_records": [
+      {
+        "id": "6868bbec264e1d71c5b80268",
+        "institutionName": "Merrill",
+        "institutionId": "ins_115610",
+        "accountIds": [
+          "9rggQzXgqgSMZjP6VMReUVXpv3k3AoUKrkeLA",
+          "VjaaRvpa8acogEkLmoX1CpvRVm9mbOfLaX1de"
+        ],
+        "lastSyncAt": "2025-07-05T18:40:07.693Z",
+        "createdAt": "2025-07-05T05:45:16.056Z",
+        "isActive": true
+      }
+    ]
+  }
+}
